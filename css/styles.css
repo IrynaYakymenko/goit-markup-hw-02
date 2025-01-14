@@ -52,7 +52,6 @@ color: #2e2f42;
 .logo-web{
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
@@ -68,11 +67,7 @@ color: #2e2f42;
     color: #2e2f42;
 }
 .address {
-    font-style: normal;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;
+
 }
 
 
