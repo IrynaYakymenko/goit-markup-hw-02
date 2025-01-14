@@ -1,0 +1,143 @@
+body{
+    font-family: "Roboto", sans-serif;
+    background: #fff;
+    color: #2e2f42;
+}
+a{
+    text-decoration: none;
+}
+p{
+    line-height: 1.5;
+letter-spacing: 0.02em;
+text-align: center;
+color: #434455;
+}
+
+h2{
+    font-weight: 700;
+font-size: 36px;
+line-height: 1.11111;
+letter-spacing: 0.02em;
+text-align: center;
+color: #2e2f42;
+}
+
+h3{
+    font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+text-align: center;
+color: #2e2f42;
+}
+
+/*header */
+.main-header {
+}
+.logo {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.16667;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #2e2f42;
+}
+.logo-web{
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.16667;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+}
+.list-header {
+    list-style-type: none;
+}
+.link-list-header {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.address {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+
+/* endheader */
+
+/*first section*/
+.first-section {
+    background: #2e2f42;
+}
+.title-first-section {
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 1.07143;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #fff;
+}
+.button-first-section {
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+background: #4d5ae5;
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.04em;
+color: #fff;
+}
+/*end first section*/
+
+/*second section*/
+.second-section {
+}
+.title-second-section {
+    
+}
+.list-second-section {
+}
+.title-list-second-section {
+    font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2e2f42;
+}
+.text-second-section {
+
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+}
+/* end second section*/
+
+/*third section*/
+.third-section {
+}
+.title-third-section {
+}
+
+
+/* end third section*/
+
+/*fourth section*/
+/* end fourth section*/
+
+/*footer*/
+.footer{
+    background: #2e2f42;
+}
+.footer p{
+    font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #f4f4fd;
+}
+/* end footer*/
