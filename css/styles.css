@@ -99,13 +99,13 @@ cursor:pointer;
 
 /*second section*/
 .second-section {
-    background-color: #F4F4FD
+    background-color: #F4F4FD;
 }
 .title-second-section {
     
 }
 .list-second-section {
-    background-color: #FFFFFF 
+    background-color: #FFFFFF; 
 }
 .title-list-second-section {
     font-weight: 500;
@@ -124,12 +124,12 @@ color: #434455;
 
 /*third section*/
 .third-section {
-    background-color: #F4F4FD
+    background-color: #F4F4FD;
 }
 .title-third-section {
 }
 .list-third-section {
-    background-color: #FFFFFF 
+    background-color: #FFFFFF; 
 }
 .title-list-third-section {
 }
