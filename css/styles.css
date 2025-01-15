@@ -71,8 +71,8 @@ color: #2e2f42;
     color: #2e2f42;
 }
 
-.link-list-header:hover,
-.link-list-header:focus{
+.first-list:hover,
+.first-list:focus{
     color: #404bbf;
 }
 
