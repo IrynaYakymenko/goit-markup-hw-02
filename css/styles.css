@@ -64,8 +64,7 @@ color: #2e2f42;
     color: #2e2f42;
 }
 */
-.link-list-header,
-.first-link-list-header{
+.first-list{
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
