@@ -56,19 +56,16 @@ color: #2e2f42;
 .list-header {
     list-style-type: none;
 }
-/*
+
 .link-list-header {
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-*/
+
 /*.first-link-list-header,*/
 .link-list-address{
-    font-weight: 500;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
     color: #434455;
 }
 
