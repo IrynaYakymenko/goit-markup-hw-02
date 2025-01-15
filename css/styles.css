@@ -62,6 +62,11 @@ color: #2e2f42;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
+
+.first-link-list-header:hover,
+.first-link-list-header:focus{
+    color: #404bbf;
+}
 .address {
 
 }
