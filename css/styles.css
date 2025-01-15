@@ -71,10 +71,10 @@ color: #2e2f42;
     color: #2e2f42;
 }
 
-.first-list:hover,
+/*.first-list:hover,
 .first-list:focus{
     color: #404bbf;
-}
+}*/
 
 .link-list-header:hover,
 .link-list-header:focus{
