@@ -76,9 +76,10 @@ color: #2e2f42;
     color: #404bbf;
 }
 .address {
-    font-style: normal;
+    
 }
 .link-list-address{
+    font-style: normal;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
