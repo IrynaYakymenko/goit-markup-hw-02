@@ -124,14 +124,34 @@ color: #434455;
 
 /*third section*/
 .third-section {
+    background-color: #F4F4FD
 }
 .title-third-section {
+}
+.list-third-section {
+    background-color: #FFFFFF 
+}
+.title-list-third-section {
+}
+.text-third-section {
+    font-size: 16px;
 }
 
 
 /* end third section*/
 
 /*fourth section*/
+
+.fourth-section {
+}
+.title-fourth-section {
+}
+.list-fourth-section {
+}
+.title-list-fourth-section {
+}
+.text-list-fourth-section {
+}
 /* end fourth section*/
 
 /*footer*/
