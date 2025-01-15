@@ -69,12 +69,14 @@ color: #2e2f42;
     color: #434455;
 }
 
-.first-link-list-header:hover,
-.first-link-list-header:focus{
+.link-list-header:hover,
+.link-list-header:focus{
     color: #404bbf;
 }
 .address{
     font-style: normal;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 /*.link-list-address{
     font-style: normal;
