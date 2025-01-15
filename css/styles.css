@@ -77,8 +77,8 @@ color: #2e2f42;
     color: #434455;
 }
 
-.first-link-list-header:hover,
-.fisrt-link-list-header:focus{
+.link-list-header:hover,
+.link-list-header:focus{
     color: #404bbf;
 }
 .address{
