@@ -76,11 +76,11 @@ color: #2e2f42;
     color: #404bbf;
 }
 
-/*.link-list-header:hover,
+.link-list-header:hover,
 .link-list-header:focus{
     color: #404bbf;
 }
-*/
+
 /*.first-link-list-header,*/
 .link-list-address,
 .first-link-list-header{
