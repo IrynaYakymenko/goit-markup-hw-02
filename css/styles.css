@@ -64,15 +64,16 @@ color: #2e2f42;
     color: #2e2f42;
 }
 */
-.link-list-header{
+.link-list-header,
+.first-link-list-header{
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
 
-.first-list:hover,
-.first-list:focus{
+.first-link-list-header:hover,
+.first-link-list-header:focus{
     color: #404bbf;
 }
 .address {
